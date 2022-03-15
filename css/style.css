@@ -1,0 +1,17 @@
+body{
+  background-color:lightcyan;
+}
+hr{
+  border-style: none;
+  border-top-style:dashed;
+  border-width: 4px;
+  border-color: red;
+  width:30%;
+ }
+h3{
+  color:lightseagreen;
+}
+h1{
+  color:lightseagreen;
+  font-family:URW Chancery L,cursive;
+}
